@@ -3,7 +3,7 @@ body{font-family: 'Lobster', cursive;
     h1{font-size: 40px;}
     span{color: gold;}
     .color{color: orangered;}
-    section{display: flex;}
+    .flexable{display: flex;}
     .half-width{width: 50%; padding-left: 10%;}
     .half-width img{width:80%; padding-left: 15% ;padding-top: 5%;}
     .linkok{text-decoration: none;
